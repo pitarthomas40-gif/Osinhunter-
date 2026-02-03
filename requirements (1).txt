@@ -1,0 +1,8 @@
+aiogram
+aiohttp
+requests
+python-dotenv
+pytz
+colorama
+aiosqlite
+telebot
